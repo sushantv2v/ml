@@ -1,5 +1,5 @@
-export TRAINING_DATA=/Users/sushantverma/PycharmProjects/abhishek_thakur/vikrant/ml/input/train_folds.csv
-export TEST_DATA=/Users/sushantverma/PycharmProjects/abhishek_thakur/vikrant/ml/input/test.csv
+export TRAINING_DATA=/Users/sushantvermasmacbookpro/PycharmProjects/ml/input/train_folds.csv
+export TEST_DATA=/Users/sushantvermasmacbookpro/PycharmProjects/ml/input/test.csv
 export MODEL=$1
 
 
